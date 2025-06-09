@@ -1,6 +1,6 @@
 # AMS Web Application
 
-A modern web application built with **React** and **Ant Design**, featuring a responsive header, custom navigation bar, and layout components.
+Web application built with **React** and **Ant Design**, featuring a responsive header, custom navigation bar, and layout components.
 
 ---
 
